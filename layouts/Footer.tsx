@@ -33,7 +33,7 @@ export default function Footer() {
 		<footer className={classes.footer}>
 			<Container className={classes.footerContainerContent}>
 				<Anchor
-					href='https://ctvnjhnrmmlp.github.io'
+					href='https://ctvnjhnrmmlp.vercel.app'
 					target='_blank'
 					underline={false}
 				>
