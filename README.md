@@ -4,7 +4,7 @@ _Comprehensive News App_
 
 **Built using TypeScript, React JS, Next JS, React Query, Zustand, and Mantine**
 
-InformedHub is an all-in-one news application that brings you a comprehensive and interactive experience. Stay informed about the latest news, weather systems, and COVID-19 statistics effortlessly.
+It is an all-in-one news application that brings you a comprehensive and interactive experience. Stay informed about the latest news, weather systems, and COVID-19 statistics effortlessly.
 
 Access up-to-the-minute news updates from around the world. The application provides a user-friendly interface for browsing and exploring news articles, ensuring you're always in the loop.
 
